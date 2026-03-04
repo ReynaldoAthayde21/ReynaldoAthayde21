@@ -19,7 +19,7 @@ Atualmente evoluindo minhas habilidades em React, Java e Python para ampliar min
 
 ## 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=php,codeigniter,mysql,html,css,js,java,react,python,docker,kubernetes&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,java,react,python,docker,kubernetes&theme=dark" />
 
 ---
 
