@@ -1,37 +1,39 @@
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=35&pause=800&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+there!+👋;Reynaldo+Athayde;Backend+Developer;Clean+Architecture+%7C+SOLID+%7C+Docker" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=1000&color=3B2CF7&width=500&lines=Hello+World!;My+name+is+Reynaldo!" alt="Typing SVG" />
 </a>
 
 <br><br>
 
 <p align="center">
-Sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento Backend e Fullstack.
-Tenho experiência com PHP, CodeIgniter e MySQL, desenvolvendo APIs REST e aplicações seguindo boas práticas de arquitetura.
+Sou estudante de Ciências da Computação com foco em desenvolvimento Backend e Fullstack.<br>
+Tenho experiência com <b>PHP, CodeIgniter e MySQL</b>, desenvolvendo APIs REST e aplicações organizadas seguindo boas práticas de arquitetura.<br><br>
 
-Possuo conhecimento em Clean Architecture e princípios SOLID, sempre buscando escrever código escalável, organizado e de fácil manutenção.
+Possuo conhecimento em <b>Clean Architecture</b> e princípios <b>SOLID</b>, buscando sempre escrever código escalável, organizado e de fácil manutenção.<br><br>
 
-Também trabalho com Docker e conceitos de Kubernetes, aplicando containerização para ambientes mais consistentes e profissionais.
+Também trabalho com <b>Docker</b> e conceitos de <b>Kubernetes</b>, aplicando containerização para ambientes mais consistentes e profissionais.<br><br>
 
-Atualmente evoluindo minhas habilidades em React, Java e Python para ampliar minha visão de arquitetura e sistemas distribuídos.
+Atualmente evoluindo minhas habilidades em <b>React, Java e Python</b> para ampliar minha visão sobre arquitetura e sistemas distribuídos.
 </p>
 
 ---
 
 ## 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,java,react,python,docker,kubernetes&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,codeigniter,mysql,html,css,js,java,react,python,docker,kubernetes&theme=dark" />
+</p>
 
 ---
 
 ## 🧠 Conceitos & Arquitetura
 
-- ✔️ Clean Architecture  
-- ✔️ Princípios SOLID  
-- ✔️ MVC  
-- ✔️ APIs REST  
-- ✔️ Containerização com Docker  
-- ✔️ Conceitos de Kubernetes  
-- ✔️ Modelagem de Banco de Dados  
+- ✔ Clean Architecture  
+- ✔ Princípios SOLID  
+- ✔ MVC  
+- ✔ APIs REST  
+- ✔ Containerização com Docker  
+- ✔ Conceitos de Kubernetes  
+- ✔ Modelagem de Banco de Dados  
 
 ---
 
