@@ -35,11 +35,6 @@ Atualmente evoluindo minhas habilidades em React, Java e Python para ampliar min
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=ReynaldoAthayde21&show_icons=true&theme=github_dark" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReynaldoAthayde21&layout=compact&theme=github_dark" height="150" />
-
 ## 🌐 Conecte-se comigo
 
 <p align="center">
